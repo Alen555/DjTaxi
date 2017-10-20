@@ -1,0 +1,62 @@
+@import 'https://fonts.googleapis.com/css?family=Alegreya+Sans';
+#nav-main{
+  background-color:#6991AC;  
+  padding-top:2%;
+}
+#nav-logo{
+  height: 37px;
+  width: auto;
+}
+#nav-lang{
+  height: 37px;
+  width: auto;
+}
+#header-main{
+  background-color:#6991AC;
+}
+#service{
+  background-color:#C3D7DF;
+}
+#contact{
+  background-color:#6991AC;
+}
+article{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+#taxi{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+footer img{
+  padding-top: 5%;
+  padding-bottom: 5%
+}
+.btn-circle.btn-xl {
+  width: 150px;
+  height: 150px;
+  padding: 10px 16px;
+  font-size: 50px;
+  line-height: 1.33;
+  border-radius: 75px;
+}
+h1{
+  color:#6991AC;
+  font-size: 350%;
+}
+p{
+  color: white;
+  font-size: 180%
+}
+#contact h2{
+  color:white;
+}
+span{
+  padding-right:1%;
+}
+ul {
+  list-style-type: none;
+}
+#contact a, span{
+  color: white;
+}
